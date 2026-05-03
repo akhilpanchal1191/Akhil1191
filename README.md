@@ -36,14 +36,18 @@ Sr. No	Payroll Company	Client Name	Designation	Tenure
 
 5	KV Staffing Services	KSPG Automotive India Pvt. Ltd	System Administrator	March-2025 to till Date
 
+
 4	i-Source Infosystems Pvt. Ltd	i-Source Infosystems Pvt. Ltd	System Administrator	March-2021 to Feb-2025
+
 
 3	Excel IT Services Pvt. Ltd	Minda VAST Access System Pvt. Ltd	L2 Engineer	August-2018 to Oct-2020
 
-2	Innoserv Solutions Pvt. Ltd.	
-Innoserv Solutions Pvt. Ltd	System Administrator	March-2018 to Aug-2018
+
+2	Innoserv Solutions Pvt. Ltd
+
 
 1	Innovative Tech-Hub Pvt Ltd.	Neeyamo Enterprise Solutions Pvt. Ltd.	Technical Support Engineer	Jan -2017 to Feb-2018
+
 
 🖥️ System Administrator: KV Staffing Services | Client: KSPG Automotive India Pvt. Ltd.
 
@@ -67,7 +71,10 @@ Innoserv Solutions Pvt. Ltd	System Administrator	March-2018 to Aug-2018
 	Supported HP Blade servers and production systems, ensuring operational continuity 
 	Maintained IT documentation, asset inventory, and system health reports 
 	Coordinated with internal teams and vendors for application support (IIS, SQL, Commvault) 
+
+
 🖥️ System Administrator | i-Source Infosystems Pvt. Ltd 
+
 	Managed VMware environment with ~20 virtual machines, including VM provisioning, configuration, monitoring, and performance optimization. 
 	Administered 10+ physical servers including HP Blade servers, ensuring high availability and uptime. 
 	Installed, configured, and maintained Windows Server 2016/2019/2022 environments. 
@@ -90,23 +97,45 @@ Innoserv Solutions Pvt. Ltd	System Administrator	March-2018 to Aug-2018
 	Coordinated with vendors for hardware issues, upgrades, and support activities. 
 	Maintained complete IT documentation including system configurations, processes, and asset records. 
 	Supported projectors, wireless display systems, and Promon displays for business operations.
+
+
 🖥️ L2 Support Engineer |Excel IT Service Pvt. Ltd|Client: Minda VAST Access System Pvt. Ltd. |
+
+
+
 🖥️ System Administrator| InnoServ Digital Pvt. Ltd | 
+
+
+
 🖥️ Technical Support Engineer: Innovative Tech-Hub Pvt. Ltd | Client: Neeyamo Enterprise Solutions Pvt. Ltd.|
 
+
  Personal Details
+ 
 	Full Name: Akhil Sarjerao Panchal
+
 	Phone Number: +91- 9890317791
+
 	Email Address: akhilpanchal1191@gmail.com 
+
 	Birth Year: 1991
+
 	Gender: Male
+
 	Marital Status: Married
+
 	Adhar No: 320069412155
+
 	PAN No: CUNPP5463K
+
 	Passport No: AK277231
+
 	Languages Known: English. Hindi, Marathi
+
 	Permanent Address (India): Survey No 14/13/38 Flat No 8 Shivkrupa Apartment Pune City Thergaon Pune Maharashtra-411033 
+
 	LinkedIn Profile: www.linkedin.com/in/akhilpanchal1191
+
 	Git Hub Profile: https://github.com/akhilspanchal/akhil1191
 
 
