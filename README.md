@@ -1,10 +1,9 @@
-CURRICULUM VITAE
 Mr. Akhil  Panchal
-      Microsoft® Azure Certified ID: DA875D-K774E2 
-Cell: +91 9890317791                                                                             E-Mail: akhilpanchal1191@gmail.com
+Cell: +91 9890317791                                                             
+E-Mail: akhilpanchal1191@gmail.com
 
  Profile Summary
-	B.C.S (Bachelor of Computer Science) graduate with 8+ years of experience in IT Infrastructure, System Administration, and L2 Support across enterprise environments. Skilled in managing Windows Server (2016/2019/2022), Active Directory, DNS, DHCP, Group Policy, and core services including File Server, FSRM, WDS, IIS, and Print Server.
+ B.C.S (Bachelor of Computer Science) graduate with 8+ years of experience in IT Infrastructure, System Administration, and L2 Support across enterprise environments. Skilled in managing Windows Server (2016/2019/2022), Active Directory, DNS, DHCP, Group Policy, and core services including File Server, FSRM, WDS, IIS, and Print Server.
 	Hands-on experience in VMware vSphere, Hyper-V, and enterprise backup solutions such as Commvault and Windows Backup, including backup, restore, and disaster recovery operations. Strong expertise in server deployment, AD migration, RAID configuration, and NIC teaming.
 	Proficient in ITSM and monitoring tools like ManageEngine ServiceDesk, Endpoint Central, and OPManager for patching, automation, and incident management. Knowledge of cybersecurity practices including Tenable, Sophos XDR, Cyrebro SIEM, and email security (SPF, DKIM, DMARC).
 	Experienced in managing end-user environments and enterprise infrastructure, with solid understanding of networking (LAN/WAN, Cisco devices, SAN/NAS storage). Adept at troubleshooting complex issues, coordinating with vendors, ensuring high system uptime, and delivering SLA-driven support.
