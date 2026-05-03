@@ -1,5 +1,7 @@
 Mr. Akhil  Panchal
-Cell: +91 9890317791                                                             
+
+Cell: +91 9890317791   
+
 E-Mail: akhilpanchal1191@gmail.com
 
  Profile Summary
